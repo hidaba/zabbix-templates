@@ -8,3 +8,5 @@ Modify in Template the trigger “Rukus Access Point Offline” with the number 
 Add in your zabbix server the mib of Ruckus in your snmp
 
 2 Template for Datek UPS
+
+3 Template for windows 2008 R2 and 2012 for italian but should word also with all language
